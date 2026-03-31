@@ -1,0 +1,4 @@
+pandas v 2.3.3
+numpy v.2.3.5
+matplotlib v.3.10.6
+seaborn v.0.13.2
