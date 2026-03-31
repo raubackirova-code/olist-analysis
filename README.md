@@ -1,3 +1,5 @@
+[English version](README_EN.md)
+
 Анализ продаж интернет-магазина Olist
 О проекте
 
