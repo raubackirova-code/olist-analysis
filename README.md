@@ -97,7 +97,7 @@ olist-sales-analysis/
 
 ├── notebooks/
 
-│   └── olist_analysis.ipynb
+          └── olist_analysis.ipynb
 
 ├── images/
 
