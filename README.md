@@ -27,7 +27,7 @@
  - order_id
  - product_id
 ### Выручка рассчитана как:
- revenue = price + freight_value
+ `revenue = price + freight_value`
 ### Применённые методы:
  - очистка и проверка данных
  - объединение таблиц (merge)
@@ -42,10 +42,10 @@
  - NumPy
  - Matplotlib
  - Jupyter Notebook
- - SQL(для демонстрации часть анализа продублирована в SQL,DBeaver).
+ - SQL(часть анализа продублирована в SQL,DBeaver).
 
 ## Основные результаты
-### Клиенты сегментированы на:
+### Клиентская сегментация:
  - Gold
  - Silver
  - Regular
@@ -91,12 +91,19 @@
 ## Структура проекта
 
 olist-sales-analysis/
+
 ├── data/
+
 ├── notebooks/
+
 │   └── olist_analysis.ipynb
+
 ├── images/
+
 ├── README.md
+
 ├── README_EN.md
+
 └── requirements.txt
 
 ## Что демонстрирует проект:
