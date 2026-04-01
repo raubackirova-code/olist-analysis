@@ -88,25 +88,27 @@
  - Расширение ассортимента в ключевых категориях.
  - Оптимизация логистики с учётом сезонного спроса.
  - Мотивационные программы для продавцов.
-
+```md
 ## Структура проекта
 
+```text
 olist-sales-analysis/
-
 ├── data/
-
 ├── notebooks/
-
-          └── olist_analysis.ipynb
-
+│   └── olist_analysis.ipynb
+├── sql/
+│   ├── customer_segmentation.sql
+│   ├── top_categories.sql
+│   └── seller_analysis.sql
 ├── images/
-
+│   ├── revenue_orders_by_dynamic.png
+│   ├── avg_orders_dynamic.png
+│   ├── product_category_dynamic.png
+│   ├── seller_category_revenue.png
+│   └── seller_category_dynamic.png
 ├── README.md
-
 ├── README_EN.md
-
 └── requirements.txt
-
 ## Что демонстрирует проект:
  - Умение работать с несколькими связанными таблицами
  - Понимание бизнес-логики анализа
