@@ -91,7 +91,7 @@
 ```md
 ## Структура проекта
 
-```text
+```
 olist-sales-analysis/
 ├── data/
 ├── notebooks/
@@ -109,6 +109,7 @@ olist-sales-analysis/
 ├── README.md
 ├── README_EN.md
 └── requirements.txt
+```
 ## Что демонстрирует проект:
  - Умение работать с несколькими связанными таблицами
  - Понимание бизнес-логики анализа
