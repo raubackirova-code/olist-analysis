@@ -96,9 +96,9 @@ olist-sales-analysis/
 ├── notebooks/
 │   └── olist_analysis.ipynb
 ├── sql/
-│   ├── customer_segmentation.sql
-│   ├── top_categories.sql
-│   └── seller_analysis.sql
+│   ├── customer_segmentation_quantilies.sql
+│   ├── monthly_sales_metrics.sql
+│   └── top_customers_by_revenue.sql
 ├── images/
 │   ├── revenue_orders_by_dynamic.png
 │   ├── avg_orders_dynamic.png
